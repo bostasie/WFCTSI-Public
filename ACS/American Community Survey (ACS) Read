@@ -1,3 +1,10 @@
 American Community Survey
+These are code samples and should be checked and modified according to user's needs
+
 WFCTSI Wikipedia Explanation
 https://brsadata01pv.medctr.ad.wfubmc.edu/ctsiclopedia/wiki/american_community_survey?s[]=acs 
+acs5yrextraction - Same R Code to extract tables from census
+2010uscounties.txt - A list of all us counties and states to be used for block group query in exctraction R code
+acs_var_key - List of tables to extract in acs5yrextraction R Code
+Compute_variables - Sample R code to derive variables from downloaded acs files
+acs5yearcrosswalk - Explanation of variables calculated in Compute variables R Code
